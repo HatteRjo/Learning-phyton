@@ -1,0 +1,5 @@
+print ('Hello! what is your first name?')
+print ("if your name is Omar, don\'t rhite nothing")
+print ('if your name is Lupiton, its ok you have a nice name.')
+name = input()
+print ('hello my lord ' + name + '!')
